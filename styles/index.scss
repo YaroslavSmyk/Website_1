@@ -1,16 +1,3 @@
-@import 'variables.scss';
-@import 'breakpoints.scss';
-@import 'common.scss';
-@import 'about.scss';
-@import 'customers.scss';
-@import 'features.scss';
-@import 'footer.scss';
-@import 'header.scss';
-@import 'headline.scss';
-@import 'tips.scss';
-@import 'order.scss';
-@import 'audience.scss';
-
 * {
   box-sizing: border-box;
 }
@@ -33,3 +20,16 @@ html {
     min-height: 100vh;
   }
 }
+
+@import 'variables.scss';
+@import 'breakpoints.scss';
+@import 'common.scss';
+@import 'about.scss';
+@import 'customers.scss';
+@import 'features.scss';
+@import 'footer.scss';
+@import 'header.scss';
+@import 'headline.scss';
+@import 'tips.scss';
+@import 'order.scss';
+@import 'audience.scss';
